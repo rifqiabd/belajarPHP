@@ -1,5 +1,4 @@
 # StudyRepo PHP
-## oleh Ahmad Rifqi Abdillah
 ___
 
 repo ini dibuat bertujuan untuk menyimpan hasil belajar yang telah saya lakukan dengan bahan ajar melalui
@@ -10,7 +9,7 @@ repo ini dibuat bertujuan untuk menyimpan hasil belajar yang telah saya lakukan 
 
 Semoga repo ini menambah semangat saya dalam belajar ngoding.
 
-Readme.md ditulis pada tanggal 4 Januari 2024 melalui nano windows 11
+Readme.md ditulis pada tanggal 4 Januari 2024
 
 ___
 
