@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World";
+echo "Hello World"; // echo bersifat seperti print pada python
 ?>h
